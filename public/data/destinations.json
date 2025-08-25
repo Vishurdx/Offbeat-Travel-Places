@@ -1,0 +1,10 @@
+[
+  {"id":"spiti-valley","name":"Spiti Valley","state":"Himachal Pradesh","description":"A cold desert mountain valley with breathtaking landscapes, ancient monasteries, and starry night skies.","image":"https://images.unsplash.com/photo-1482938289607-e9573fc25ebb?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"},
+  {"id":"tirthan-valley","name":"Tirthan Valley","state":"Himachal Pradesh","description":"A hidden paradise perfect for nature lovers, offering serene landscapes and adventure activities like trekking and fishing.","image":"https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"},
+  {"id":"majuli","name":"Majuli Island","state":"Assam","description":"The world's largest river island, home to unique Assamese culture and stunning landscapes.","image":"https://images.unsplash.com/photo-1433086966358-54859d0ed716?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"},
+  {"id":"khonoma","name":"Khonoma","state":"Nagaland","description":"India's first green village known for sustainable living, terraced agriculture, and rich Angami Naga culture.","image":"https://images.unsplash.com/photo-1501286353178-1ec881214838?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"},
+  {"id":"mechuka","name":"Mechuka","state":"Arunachal Pradesh","description":"A secluded valley with pristine landscapes, Buddhist monasteries, and tribal culture.","image":"/images/mechuka1.jpg"},
+  {"id":"anini","name":"Anini","state":"Arunachal Pradesh","description":"Unexplored mountain town in Dibang Valley with serene, misty beauty.","image":"/images/anini1.jpg"},
+  {"id":"valley-of-flowers","name":"Valley of Flowers","state":"Uttarakhand","description":"UNESCO World Heritage site famous for alpine meadows of endemic flowers.","image":"https://images.unsplash.com/photo-1472396961693-142e6e269027?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"},
+  {"id":"dholavira","name":"Dholavira","state":"Gujarat","description":"Major Indus Valley Civilization site with sophisticated water systems.","image":"https://images.unsplash.com/photo-1469041797191-50ace28483c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"}
+]
